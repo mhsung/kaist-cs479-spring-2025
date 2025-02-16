@@ -10,7 +10,10 @@ hide:
 </b></h3>
 <br />
 
-![Teaser](assets/teaser.png){ width=97.5% }
+![Teaser](assets/teaser.png){ width=97.5% }[^1]
+
+[^1]: Teaser image credits (from left to right):<br>Mildenhall et al., NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, ECCV 2020.<br>https://huggingface.co/blog/gaussian-splatting<br>Hwang and Sung, Occupancy-Based Dual Contouring, SIGGRAPH Asia 2024.<br>
+
 
 
 ## Time & Location
@@ -45,9 +48,9 @@ This course is intended for undergraduate/master students who have a basic backg
 
 
 ## Grading
-- Programming Assignments: 40%
-- Project: 40%
-- Midterm Quiz: 10%
+- [Programming Assignments](./programming-assignments): 40%
+- Midterm Quiz: 20%
+- [3D Rendering Contest](./3d-rendering-contest): 30%
 - In-Class Participation: 10%
 
 
@@ -56,27 +59,17 @@ This course is intended for undergraduate/master students who have a basic backg
 **You are allowed (and even encouraged) to utilize AI coding assistant tools**, such as ChatGPT, Copilot, Codex, and Code Intelligence, for your programming assignments and projects. Utilizing AI coding assistant tools will not be deemed as plagiarism. However, it is still strictly prohibited to directly copy code from the Internet or from someone else. Doing so will lead to a score of zero and a report to the university.
 
 
-<!--
 ## Important Dates
 ALL ASSIGNMENTS ARE DUE 23:59 KST.
 (Subject to Change)
 
-- Project Sign-Up: ==Due Sep 8 (Fri)==
-- 1st Programming Assignment: ==Due Sep 17 (Sun)==
-- Project Proposal: ==Due Sep 24 (Sun)==
-- 2nd Programming Assignment: ==Due Oct 9 (Mon)==
-- Project Mockup: ==Due Oct 9 (Mon)==
-- Project Pitch Video: ==Due Oct 20 (Fri)==
-- Project Interim Report 1: ==Due Nov 5 (Sun)==
-- Paper Review Questions: ==Due Nov 12 (Sun)==
-- 3rd Programming Assignment: ==Due Nov 12 (Sun)==
-- Project Interim Report 2: ==Due Nov 19 (Sun)==
-- Paper Review Answers: ==Due Nov 26 (Sun)==
-- Project Poster: ==Due Nov 29 (Wed)==
-- Project Report/Code: ==Due Dec 3 (Sun)==
-- Project Review: ==Due Dec 9 (Sat)==
-- Project Rebuttal: ==Due Dec 13 (Wed)==
--->
+- Assignment 1 Submission Due: ==March 25 (Tuesday), 23:59 KST==  
+- 3D Rendering Contest Sign-Up Due: ==April 8 (Saturday), 23:59 KST==  
+- Assignment 2 Submission Due: ==April 22 (Tuesday), 23:59 KST==  
+- Assignment 3 Submission Due: ==May 20 (Tuesday), 23:59 KST==
+- Assignment 4 Submission Due: ==June 10 (Tuesday), 23:59 KST==
+- 3D Rendering Contest Submission Due: ==May 31 (Saturday), 23:59 KST==  
+
 
 ## Schedule
 (Subject to Change) 
@@ -85,18 +78,18 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | :----: | :----: | :----: | :----: | :----: |
 | 1  | Feb 24 | **Course Introduction** | Feb 26 | **3D Representations** | 
 | 2  | Mar 3  | No Class (Substitute Holiday for<br>the Independence Movement Day) | Mar 5 | **Point Clouds 1** | 
-| 3  | Mar 10 | **Point Clouds 2** | Mar 12 | ==**Assignment 1: PointNet**== | 
-| 4  | Mar 17 | ==**Guest Lecture 1**== | Mar 19 | **Implicit Functions** | 
+| 3  | Mar 10 | **Point Clouds 2** | Mar 12 | ==Assignment 1 Session:<br>PointNet== | 
+| 4  | Mar 17 | ==Guest Lecture 1== | Mar 19 | **Implicit Functions** | 
 | 5  | Mar 24 | **Image-to-3D 1** | Mar 26 | **Image-to-3D 2** | 
-| 6  | Mar 31 | **Neural Radiance Fields (NeRF)** | Apr 2 | ==**Assignment 2: NeRF**== | 
-| 7  | Apr 7  | **Hybrid Representations** | Apr 9 | ==**Midterm Summary**== | 
-| 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==**Midterm Quiz**== | 
-| 9  | Apr 21 | No Class (Break) | Apr 23 | ==**Session: Project Introduction**== | 
-| 10  | Apr 28 | ==**Session: NeRFStudio**== | Apr 30 | **Gaussian Splatting 1** | 
-| 11 | May 5 | No Class (Children’s Day) | May 7 | ==**Assignment 3: Gaussian Splatting**== | 
+| 6  | Mar 31 | **Neural Radiance Fields (NeRF)** | Apr 2 | ==Assignment 2 Session:<br>NeRF== | 
+| 7  | Apr 7  | **Hybrid Representations** | Apr 9 | ==Midterm Summary== | 
+| 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm Quiz== | 
+| 9  | Apr 21 | No Class (Break) | Apr 23 | ==Project Introduction== | 
+| 10  | Apr 28 | ==Demo Session:<br>NeRFStudio== | Apr 30 | **Gaussian Splatting 1** | 
+| 11 | May 5 | No Class (Children’s Day) | May 7 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
 | 12 | May 12 | **Meshes 1** | May 14 |  **Meshes 2** | 
-| 13 | May 19 | ==**Guest Lecture 2**== | May 21 |  ==**Assignment 4: Marching Cubes**== | 
+| 13 | May 19 | ==Guest Lecture 2== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
-| 15 | Jun 2 | ==**Project Presentations 1**== | Jun 9 |==**Project Presentations 2**== |
+| 15 | Jun 2 | ==Project Presentations 1== | Jun 9 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |
 
