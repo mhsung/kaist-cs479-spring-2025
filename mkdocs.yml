@@ -1,0 +1,41 @@
+site_name: CS479 Machine Learning for 3D Data (KAIST, Spring 2025)
+
+theme:
+  name: material
+  icon:
+    logo: material/cube-outline
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - meta
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+
+plugins:
+  - macros
+
+copyright: Copyright &copy; 2025 Minhyuk Sung
+
+nav:
+  - Home: index.md
+  - Programming Assignments: programming-assignments.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-0DGDW2727H
+  links:
+    lec01: https://kaistackr-my.sharepoint.com/:b:/g/personal/mhsung_kaist_ac_kr/EXPl933tZ9BItoZdMeJyuHwByUNJLCP1nNWdZ-muOxPadA?e=XcxmSR
+    rec01: https://youtu.be/ghGk3HcxUgg
