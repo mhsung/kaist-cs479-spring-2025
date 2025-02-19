@@ -83,7 +83,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 5  | Mar 24 | **Image-to-3D 1** | Mar 26 | **Image-to-3D 2** | 
 | 6  | Mar 31 | **Neural Radiance Fields (NeRF)** | Apr 2 | ==Assignment 2 Session:<br>NeRF== | 
 | 7  | Apr 7  | **Hybrid Representations** | Apr 9 | ==Midterm Summary== | 
-| 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm Quiz== | 
+| 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm== | 
 | 9  | Apr 21 | No Class (Break) | Apr 23 | ==Project Introduction== | 
 | 10  | Apr 28 | ==Demo Session:<br>NeRFStudio== | Apr 30 | **Gaussian Splatting** | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
