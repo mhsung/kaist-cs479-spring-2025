@@ -85,7 +85,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 7  | Apr 7  | **Hybrid Representations** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm Quiz== | 
 | 9  | Apr 21 | No Class (Break) | Apr 23 | ==Project Introduction== | 
-| 10  | Apr 28 | ==Demo Session:<br>NeRFStudio== | Apr 30 | **Gaussian Splatting 1** | 
+| 10  | Apr 28 | ==Demo Session:<br>NeRFStudio== | Apr 30 | **Gaussian Splatting** | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
 | 12 | May 12 | **Meshes 1** | May 14 |  **Meshes 2** | 
 | 13 | May 19 | ==Guest Lecture 2== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
