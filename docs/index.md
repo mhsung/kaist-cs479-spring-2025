@@ -90,6 +90,6 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 12 | May 12 | **Meshes 1** | May 14 |  **Meshes 2** | 
 | 13 | May 19 | ==Guest Lecture 2== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
-| 15 | Jun 2 | ==Project Presentations 1== | Jun 9 |==Project Presentations 2== |
+| 15 | Jun 2 | ==Project Presentations 1== | Jun 4 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |
 
