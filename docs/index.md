@@ -49,8 +49,8 @@ This course is intended for undergraduate/master students who have a basic backg
 
 ## Grading
 - [Programming Assignments](./programming-assignments): 40%
-- Midterm Quiz: 20%
 - [3D Rendering Contest](./3d-rendering-contest): 30%
+- Midterm: 20%
 - In-Class Participation: 10%
 
 
