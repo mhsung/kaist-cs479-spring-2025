@@ -12,7 +12,7 @@ hide:
 
 ## 3D Rendering Contest
 
-^^**Sign-Up Due**^^: ==April 8 (Tuesday), 23:59 KST==  
+^^**Sign-Up Due**^^: ==April 6 (Sunday), 23:59 KST==  
 ^^**Submission Due**^^: ==May 31 (Saturday), 23:59 KST==  
 ^^**Where to submit**^^: ==KLMS==  
 ^^**Presentation Session 1**^^: June 2 (Monday), 12:50 p.m. - 2:20 p.m. KST  
