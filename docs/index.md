@@ -63,9 +63,9 @@ This course is intended for undergraduate/master students who have a basic backg
 ALL ASSIGNMENTS ARE DUE 23:59 KST.
 (Subject to Change)
 
-- Assignment 1 Submission Due: ==March 25 (Tuesday), 23:59 KST==  
-- 3D Rendering Contest Sign-Up Due: ==April 8 (Saturday), 23:59 KST==  
-- Assignment 2 Submission Due: ==April 22 (Tuesday), 23:59 KST==  
+- Assignment 1 Submission Due: ==April 1 (Tuesday), 23:59 KST==  
+- 3D Rendering Contest Sign-Up Due: ==April 6 (Sunday), 23:59 KST==  
+- Assignment 2 Submission Due: ==April 27 (Sunday), 23:59 KST==  
 - Assignment 3 Submission Due: ==May 20 (Tuesday), 23:59 KST==
 - Assignment 4 Submission Due: ==June 10 (Tuesday), 23:59 KST==
 - 3D Rendering Contest Submission Due: ==May 31 (Saturday), 23:59 KST==  
@@ -85,8 +85,8 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm== | 
 | 9  | Apr 21 | No Class (Break) | Apr 23 | ==Demo Session:<br>NeRFStudio== | 
-| 10  | Apr 28 | ==Guest Lecture 1== | Apr 30 | **Gaussian Splatting 2** | 
-| 11 | May 5 | No Class (Children’s Day) | May 7 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
+| 10  | Apr 28 | ==Guest Lecture 1== | Apr 30 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
+| 11 | May 5 | No Class (Children’s Day) | May 7 | **Gaussian Splatting 2** | 
 | 12 | May 12 | **Meshes** | May 14 |  No Class (Break) | 
 | 13 | May 20 | ==Guest Lecture 2<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
