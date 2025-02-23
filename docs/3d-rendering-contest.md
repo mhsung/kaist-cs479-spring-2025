@@ -26,8 +26,8 @@ In this contest, you are invited to reconstruct, generate, or design 3D object(s
 Your first task is to create captivating 3D object(s) or a scene by either:
 
 1. Reconstructing 3D object(s) or a scene from real-world images or videos,
-2. Employing generative models to create your 3D object(s) or scene, or
-3. Handcrafting a 3D model using any tools you prefer.
+2. Handcrafting a 3D model using any tools you prefer, or
+3. Employing generative models to create your 3D object(s) or scene.
 
 Then, you will render the 3D object(s)/scene into its best form as a video.
 
