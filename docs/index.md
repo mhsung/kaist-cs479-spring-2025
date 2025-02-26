@@ -76,7 +76,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 
 | Week | Mon | Topic | Wed | Topic |
 | :----: | :----: | :----: | :----: | :----: |
-| 1  | Feb 24 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"} | Feb 26 | **3D Representations**<br>[**Slides**]({{links.lec02}}){:target="_blank"} | 
+| 1  | Feb 24 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"} | Feb 26 | **3D Representations**<br>[**Slides**]({{links.lec02}}){:target="_blank"}<br>[**Recording**]({{links.rec02}}){:target="_blank"} | 
 | 2  | Mar 3  | No Class (Substitute Holiday for<br>the Independence Movement Day) | Mar 5 | **Point Clouds 1** | 
 | 3  | Mar 10 | **Point Clouds 2** | Mar 12 | ==Assignment 1 Session:<br>PointNet== | 
 | 4  | Mar 17 | **Implicit Functions**  | Mar 19 | **Image-to-3D 1** | 
