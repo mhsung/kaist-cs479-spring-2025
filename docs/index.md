@@ -77,18 +77,18 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | Week | Mon | Topic | Wed | Topic |
 | :----: | :----: | :----: | :----: | :----: |
 | 1  | Feb 24 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"} | Feb 26 | **3D Representations**<br>[**Slides**]({{links.lec02}}){:target="_blank"}<br>[**Recording**]({{links.rec02}}){:target="_blank"} | 
-| 2  | Mar 3  | No Class (Substitute Holiday for<br>the Independence Movement Day) | Mar 5 | **Point Clouds 1** | 
+| 2  | Mar 3  | No Class (Substitute Holiday for<br>the Independence Movement Day) | Mar 5 | **Point Clouds 1**<br>[**Slides**]({{links.lec03}}){:target="_blank"} | 
 | 3  | Mar 10 | **Point Clouds 2** | Mar 12 | ==Assignment 1 Session:<br>PointNet== | 
 | 4  | Mar 17 | **Implicit Functions**  | Mar 19 | **Image-to-3D 1** | 
 | 5  | Mar 24 | **Image-to-3D 2** | Mar 26 | **Neural Radiance Fields (NeRF)** | 
 | 6  | Mar 31 | ==Assignment 2 Session:<br>NeRF== | Apr 2 | **Hybrid Representations** | 
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm== | 
-| 9  | Apr 21 | No Class (Break) | Apr 23 | ==Demo Session:<br>NeRFStudio== | 
-| 10  | Apr 28 | ==Guest Lecture 1== | Apr 30 | ==Assignment 3 Session:<br>Gaussian Splatting== | 
+| 9  | Apr 21 | ==Guest Lecture 1== | Apr 23 | ==Demo Session:<br>NeRFStudio== | 
+| 10  | Apr 28 | ==Assignment 3 Session:<br>Gaussian Splatting== | Apr 30 | ==Guest Lecture 2== | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Gaussian Splatting 2** | 
 | 12 | May 12 | **Meshes** | May 14 |  No Class (Break) | 
-| 13 | May 20 | ==Guest Lecture 2<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
+| 13 | May 20 | ==Guest Lecture 3<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
 | 15 | Jun 2 | ==Project Presentations 1== | Jun 4 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |
