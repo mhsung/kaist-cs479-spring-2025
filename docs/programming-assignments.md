@@ -20,10 +20,10 @@ hide:
 
 
 ### Assignment Links
-- Assignment1 (PointNet): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-PointNet](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-PointNet){:target="_blank"}
-- Assignment2 (NeRF): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-NeRF](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-NeRF){:target="_blank"}
-- Assignment3 (Gaussian Splatting): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-3DGS](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-3DGS){:target="_blank"}
-- Assignment4 (Moving Least Squares / Marching Squares): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-MLS-MS](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-MLS-MS){:target="_blank"}
+- Assignment1 (PointNet): [{{links.asgmt1}}]({{links.asgmt1}}){:target="_blank"}
+- Assignment2 (NeRF): [{{links.asgmt2}}]({{links.asgmt2}}){:target="_blank"}
+- Assignment3 (Gaussian Splatting): [{{links.asgmt3}}]({{links.asgmt3}}){:target="_blank"}
+- Assignment4 (Moving Least Squares / Marching Squares): [{{links.asgmt4}}]({{links.asgmt4}}){:target="_blank"}
 
 **Please carefully review the README of each assignment before you begin** and check what you need to submit for each assignment.
 
