@@ -63,7 +63,7 @@ This course is intended for undergraduate/master students who have a basic backg
 ALL ASSIGNMENTS ARE DUE 23:59 KST.
 (Subject to Change)
 
-- Assignment 1 Submission Due: ==April 1 (Tuesday), 23:59 KST==  
+- Assignment 1 Submission Due: ~~April 1 (Tuesday), 23:59 KST~~ ==April 8 (Tuesday), 23:59 KST==  
 - 3D Rendering Contest Sign-Up Due: ==April 6 (Sunday), 23:59 KST==  
 - Assignment 2 Submission Due: ==April 27 (Sunday), 23:59 KST==  
 - Assignment 3 Submission Due: ==May 20 (Tuesday), 23:59 KST==
@@ -79,8 +79,8 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 1  | Feb 24 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"} | Feb 26 | **3D Representations**<br>[**Slides**]({{links.lec02}}){:target="_blank"}<br>[**Recording**]({{links.rec02}}){:target="_blank"} | 
 | 2  | Mar 3  | No Class (Substitute Holiday for<br>the Independence Movement Day) | Mar 5 | **Point Clouds 1**<br>[**Slides**]({{links.lec03}}){:target="_blank"}<br>[**Recording**]({{links.rec03}}){:target="_blank"} | 
 | 3  | Mar 10 | **Point Clouds 2**<br>[**Slides**]({{links.lec04}}){:target="_blank"}<br>[**Recording**]({{links.rec04}}){:target="_blank"} | Mar 12 | ==Assignment 1 Session:==<br>[**PointNet**]({{links.asgmt1}}){:target="_blank"}<br>[**Slides**]({{links.asgmt1_slides}}){:target="_blank"} | 
-| 4  | Mar 17 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Mar 19 | **Image-to-3D 1:Camera Model**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} | 
-| 5  | Mar 24 | **Image-to-3D 2** | Mar 26 | **Neural Radiance Fields (NeRF)** | 
+| 4  | Mar 17 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Mar 19 | **Image-to-3D 1:<br>Camera Model**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} | 
+| 5  | Mar 24 | **Image-to-3D 2<br>Epipolar Geometry**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Mar 26 | **Neural Radiance Fields (NeRF)** | 
 | 6  | Mar 31 | ==Assignment 2 Session:<br>NeRF== | Apr 2 | **Hybrid Representations** | 
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm== | 
