@@ -81,7 +81,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 3  | Mar 10 | **Point Clouds 2**<br>[**Slides**]({{links.lec04}}){:target="_blank"}<br>[**Recording**]({{links.rec04}}){:target="_blank"} | Mar 12 | ==Assignment 1 Session:==<br>[**PointNet**]({{links.asgmt1}}){:target="_blank"}<br>[**Slides**]({{links.asgmt1_slides}}){:target="_blank"} | 
 | 4  | Mar 17 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Mar 19 | **Image-to-3D 1:<br>Camera Model**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} | 
 | 5  | Mar 24 | **Image-to-3D 2<br>Epipolar Geometry**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Mar 26 | **Neural Radiance Fields (NeRF)**<br>[**Slides**]({{links.lec08}}){:target="_blank"}<br>[**Recording**]({{links.rec08}}){:target="_blank"} | 
-| 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session:<br>NeRF== | 
+| 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session:<br>NeRF== | 
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | No Class (Midterm Week) | Apr 16 | ==Midterm== | 
 | 9  | Apr 21 | ==Guest Lecture 1== | Apr 23 | ==Demo Session:<br>NeRFStudio== | 
