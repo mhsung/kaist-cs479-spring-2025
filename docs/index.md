@@ -84,7 +84,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session==:<br>[**NeRF**]({{links.asgmt2}}){:target="_blank"}<br>[**Slides**]({{links.asgmt2_slides}}){:target="_blank"} | 
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | ==Midterm== | Apr 16 | No Class (Midterm Week) | 
-| 9  | Apr 21 | ==Guest Lecture 1== | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"} | 
+| 9  | Apr 21 | ==Guest Lecture 1:==<br>[**Jiahui Huang**](./guest-lecture-jiahui-huang){:target="_blank"} | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"} | 
 | 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2== | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Gaussian Splatting 2** | 
 | 12 | May 12 | **Meshes** | May 14 |  No Class (Break) | 
