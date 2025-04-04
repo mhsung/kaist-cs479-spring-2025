@@ -81,14 +81,14 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 3  | Mar 10 | **Point Clouds 2**<br>[**Slides**]({{links.lec04}}){:target="_blank"}<br>[**Recording**]({{links.rec04}}){:target="_blank"} | Mar 12 | ==Assignment 1 Session:==<br>[**PointNet**]({{links.asgmt1}}){:target="_blank"}<br>[**Slides**]({{links.asgmt1_slides}}){:target="_blank"} | 
 | 4  | Mar 17 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Mar 19 | **Image-to-3D 1:<br>Camera Model**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} | 
 | 5  | Mar 24 | **Image-to-3D 2<br>Epipolar Geometry**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Mar 26 | **Neural Radiance Fields (NeRF)**<br>[**Slides**]({{links.lec08}}){:target="_blank"}<br>[**Recording**]({{links.rec08}}){:target="_blank"} | 
-| 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session:<br>NeRF== | 
+| 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session==:<br>[**NeRF**]({{links.asgmt2}}){:target="_blank"}<br>[**Slides**]({{links.asgmt2_slides}}){:target="_blank"} | 
 | 7  | Apr 7  | **Gaussian Splatting 1** | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | ==Midterm== | Apr 16 | No Class (Midterm Week) | 
-| 9  | Apr 21 | ==Guest Lecture 1== | Apr 23 | ==Demo Session:<br>NeRFStudio== | 
-| 10  | Apr 28 | ==Assignment 3 Session:<br>Gaussian Splatting== | Apr 30 | ==Guest Lecture 2== | 
+| 9  | Apr 21 | ==Guest Lecture 1== | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"} | 
+| 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2== | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Gaussian Splatting 2** | 
 | 12 | May 12 | **Meshes** | May 14 |  No Class (Break) | 
-| 13 | May 20 | ==Guest Lecture 3<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:<br>Marching Cubes== | 
+| 13 | May 20 | ==Guest Lecture 3<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:==<br>[**Marching Squares**]({{links.asgmt4}}){:target="_blank"} | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
 | 15 | Jun 2 | ==Project Presentations 1== | Jun 4 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |

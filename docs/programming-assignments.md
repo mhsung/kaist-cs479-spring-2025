@@ -31,7 +31,7 @@ hide:
 ### Session Link
 Along with the assignment sessions, we offer an additional *optional* programming session that will be helpful for preparing the course project.
 
-- Session (NeRF Applications): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-NeRF-Applications](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-NeRF-Applications){:target="_blank"}
+- Session (NeRF Applications): [{{links.demo}}]({{links.demo}}){:target="_blank"}
 
 
 ### Prerequisite
