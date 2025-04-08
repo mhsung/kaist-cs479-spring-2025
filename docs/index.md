@@ -63,8 +63,8 @@ This course is intended for undergraduate/master students who have a basic backg
 ALL ASSIGNMENTS ARE DUE 23:59 KST.
 (Subject to Change)
 
-- Assignment 1 Submission Due: ~~April 1 (Tuesday), 23:59 KST~~ ==April 8 (Tuesday), 23:59 KST==  
-- 3D Rendering Contest Sign-Up Due: ~~April 6 (Sunday), 23:59 KST~~ ==April 8 (Tuesday), 23:59 KST==  
+- Assignment 1 Submission Due: ~~April 1 (Tuesday), 23:59 KST~~ ~~April 8 (Tuesday), 23:59 KST~~ ==April 9 (Wednesday), 23:59 KST==   
+- 3D Rendering Contest Sign-Up Due: ~~April 6 (Sunday), 23:59 KST~~ ==April 8 (Tuesday), 23:59 KST== 
 - Assignment 2 Submission Due: ==April 27 (Sunday), 23:59 KST==
 - Assignment 3 Submission Due: ==May 20 (Tuesday), 23:59 KST==
 - Assignment 4 Submission Due: ==June 10 (Tuesday), 23:59 KST==
