@@ -84,8 +84,8 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 6  | Mar 31 | **Hybrid Representations**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Apr 2 | ==Assignment 2 Session==:<br>[**NeRF**]({{links.asgmt2}}){:target="_blank"}<br>[**Slides**]({{links.asgmt2_slides}}){:target="_blank"} | 
 | 7  | Apr 7  | **Gaussian Splatting**<br>[**Slides**]({{links.lec10}}){:target="_blank"}<br>[**Recording**]({{links.rec10}}){:target="_blank"} | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | ==Midterm== | Apr 16 | No Class (Midterm Week) | 
-| 9  | Apr 21 | ==Guest Lecture 1:==<br>[**Jiahui Huang**](./guest-lecture-jiahui-huang){:target="_blank"} | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"} | 
-| 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2== | 
+| 9  | Apr 21 | ==Guest Lecture 1:==<br>[**Jiahui Huang**](./guest-lecture-jiahui-huang){:target="_blank"}<br>[**Recording**]({{links.guest_rec01}}){:target="_blank"} | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"}<br>[**Slides**]({{links.demo_slides}}){:target="_blank"} | 
+| 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"}<br>[**Slides**]({{links.asgmt3_slides}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2== | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Meshes 1** | 
 | 12 | May 12 | **Meshes 2** | May 14 |  No Class (Break) | 
 | 13 | May 20 | ==Guest Lecture 3<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:==<br>[**Marching Squares**]({{links.asgmt4}}){:target="_blank"} | 
