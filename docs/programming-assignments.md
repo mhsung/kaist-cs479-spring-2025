@@ -23,7 +23,7 @@ hide:
 - Assignment1 (PointNet): [{{links.asgmt1}}]({{links.asgmt1}}){:target="_blank"}
 - Assignment2 (NeRF): [{{links.asgmt2}}]({{links.asgmt2}}){:target="_blank"}
 - Assignment3 (Gaussian Splatting): [{{links.asgmt3}}]({{links.asgmt3}}){:target="_blank"}
-- Assignment4 (Moving Least Squares / Marching Squares): [{{links.asgmt4}}]({{links.asgmt4}}){:target="_blank"}
+- Assignment4 (Implicit Moving Least Squares / Marching Squares): [{{links.asgmt4}}]({{links.asgmt4}}){:target="_blank"}
 
 **Please carefully review the README of each assignment before you begin** and check what you need to submit for each assignment.
 
