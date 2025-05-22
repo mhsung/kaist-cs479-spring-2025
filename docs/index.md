@@ -85,10 +85,10 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 7  | Apr 7  | **Gaussian Splatting**<br>[**Slides**]({{links.lec10}}){:target="_blank"}<br>[**Recording**]({{links.rec10}}){:target="_blank"} | Apr 9 | ==Midterm Summary== | 
 | 8  | Apr 14 | ==Midterm== | Apr 16 | No Class (Midterm Week) | 
 | 9  | Apr 21 | ==Guest Lecture 1:==<br>[**Jiahui Huang**](./guest-lecture-jiahui-huang){:target="_blank"}<br>[**Recording**]({{links.guest_rec01}}){:target="_blank"} | Apr 23 | ==Demo Session:==<br>[**NeRFStudio**]({{links.demo}}){:target="_blank"}<br>[**Slides**]({{links.demo_slides}}){:target="_blank"} | 
-| 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"}<br>[**Slides**]({{links.asgmt3_slides}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2:==<br>[**Songyou Peng**](./guest-lecture-songyou-peng){:target="_blank"}<br>[**Recording**]({{links.guest_rec02}}){:target="_blank"} | 
+| 10  | Apr 28 | ==Assignment 3 Session==:<br>[**Gaussian Splatting**]({{links.asgmt3}}){:target="_blank"}<br>[**Slides**]({{links.asgmt3_slides}}){:target="_blank"}<br>[**Slides**]({{links.asgmt3_slides}}){:target="_blank"} | Apr 30 | ==Guest Lecture 2:==<br>[**Songyou Peng**](./guest-lecture-songyou-peng){:target="_blank"}<br>[**Recording**]({{links.guest_rec02}}){:target="_blank"} | 
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Representation Conversion 1<br>[**Slides**]({{links.lec11}}){:target="_blank"}<br>[**Recording**]({{links.rec11}}){:target="_blank"}** | 
 | 12 | May 12 | **Representation Conversion 2<br>[**Slides**]({{links.lec12}}){:target="_blank"}** | May 14 |  No Class (Break) | 
-| 13 | May 20 | ==Guest Lecture 3<br>Mar 20 (Tue) 4:00 p.m.== | May 21 |  ==Assignment 4 Session:==<br>[**Marching Squares**]({{links.asgmt4}}){:target="_blank"} | 
+| 13 | May 20 | ==Guest Lecture 3<br>(Mar 20 (Tue) 4:00 p.m.):==<br>[**Matthias Nießner**](./guest-lecture-matthias-niessner){:target="_blank"}<br>[**Recording**]({{links.guest_rec03}}){:target="_blank"} | May 21 |  ==Assignment 4 Session:==<br>[**Marching Squares**]({{links.asgmt4}}){:target="_blank"}<br>[**Slides**]({{links.asgmt4_slides}}){:target="_blank"} | 
 | 14 | May 26 | **Deformation** | May 28 |  **3D Geneneration and More** | 
 | 15 | Jun 2 | ==Project Presentations 1== | Jun 4 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |
