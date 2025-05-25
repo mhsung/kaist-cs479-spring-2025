@@ -40,7 +40,7 @@ Then, you will render the 3D object(s)/scene into its best form as a video.
 - **Any 3D assets**
 - **Any paid neural network models**
 - **Closed-source software (e.g., PolyCam, Luma AI)**
-- **Blender**
+- **Blender for rendering (You are allowed to use Blender for modeling/texturing)**
 - **Any 3D scanning devices**
 
 **You are allowed to use the following (provided they are clearly mentioned in your write-up):**
