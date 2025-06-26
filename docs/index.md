@@ -89,7 +89,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 11 | May 5 | No Class (Children’s Day) | May 7 | **Representation Conversion 1**<br>[**Slides**]({{links.lec11}}){:target="_blank"}<br>[**Recording**]({{links.rec11}}){:target="_blank"} | 
 | 12 | May 12 | **Representation Conversion 2**<br>[**Slides**]({{links.lec12}}){:target="_blank"}<br>[**Recording**]({{links.rec12}}){:target="_blank"} | May 14 |  No Class (Break) | 
 | 13 | May 20 | ==Guest Lecture 3<br>(Mar 20 (Tue) 4:00 p.m.):==<br>[**Matthias Nießner**](./guest-lecture-matthias-niessner){:target="_blank"}<br>[**Recording**]({{links.guest_rec03}}){:target="_blank"} | May 21 |  ==Assignment 4 Session:==<br>[**Marching Squares**]({{links.asgmt4}}){:target="_blank"}<br>[**Slides**]({{links.asgmt4_slides}}){:target="_blank"} | 
-| 14 | May 26 | **Mesh Deformation**<br>[**Slides**]({{links.lec13}}){:target="_blank"}<br>[**Recording**]({{links.rec13}}){:target="_blank"} | May 28 |  **3D Geneneration and More** | 
+| 14 | May 26 | **Mesh Deformation**<br>[**Slides**]({{links.lec13}}){:target="_blank"}<br>[**Recording**]({{links.rec13}}){:target="_blank"} | May 28 |  **3D Geneneration**<br>[**Slides**]({{links.lec14}}){:target="_blank"}<br>[**Recording**]({{links.rec14}}){:target="_blank"} | 
 | 15 | Jun 2 | ==Project Presentations 1== | Jun 4 |==Project Presentations 2== |
 | 16 | Jun 9 | No Class (Final Week) | Jun 11 | No Class (Final Week) |
 
